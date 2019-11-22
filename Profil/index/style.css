@@ -1,0 +1,227 @@
+body{
+	margin: 0;
+}
+
+h1
+{
+	font-family: 'Arvo', serif;
+	font-size:55px;
+	color: black;
+	margin: 50px 400px;	
+	padding: 32px;
+	padding-top: 5px;
+}
+
+
+.univers {
+	border: ridge;
+	font-style: 'Arvo', serif;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: black;
+    margin:70px 70px;
+    margin-left: 510px;
+    margin-bottom: 30px;
+    margin-top: -30px;
+
+
+}
+.univers:hover {
+    background-color: gold;
+    color: black;
+}
+
+.univers:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+
+h3 {
+	font-family: 'Arvo', serif;
+	font-size: 22px;
+	color:gold;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-top: 2px;
+}
+
+.cart8
+h2 {
+	font-family: 'Arvo', serif;
+	font-size: 150px
+	color:black;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-top: 2px;
+}
+
+.cart9
+h2 {
+	font-family: 'Arvo', serif;
+	font-size: 150px
+	color:black;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-top: 2px;
+}
+
+p {
+	font-family: 'Calistoga', cursive;
+	font-size: 25px;
+	color: #d5d0cd;
+	text-align: center;
+    margin-bottom: 30px
+    margin-left: 510px;
+    margin-top: 30px;
+}
+
+body {
+	background-image: url(images/vagabond.jpg);
+    background-repeat:repeat;
+    background-size:cover;
+}
+
+.cart1 
+h1{
+	display: block;
+	position: absolute;
+	height: 45px;
+	width: 800px;
+	background: gold;
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	text-align: center;
+	margin-top: -70px;
+}
+
+.cart5
+h2 {
+	display: block;
+	border-style: none;
+	height: 50px;
+	width: 370px;
+	margin:auto auto;
+	margin-top: 130px;
+}
+
+.cart6
+p {
+	display: block;
+	background: none;
+	height: 50px;
+	width: 1000px;
+	padding-left: 10px;
+	padding-right: 2px;
+	margin: 200px auto;
+	margin-top: 80px;
+
+}
+
+.cart2 {
+	background-image: url(images/bolt.gif);
+	position: relative;
+	background-color: #292f36;
+	background-repeat: no-repeat;
+	display: block ;
+	height: 210px;
+	width: 210px;
+	margin:0 auto;
+	border: white ridge;
+	border-width: 1px;
+	border-radius: 10px;
+}
+
+
+.cart3 {
+	background-image: url(images/voyage1.gif);
+	position: relative;
+	background-color: black;
+	display: block;
+	height: 210px;
+	width: 210px;
+	margin: 100px auto;
+	border: white ridge;
+	border-width: 1px;
+	border-radius: 10px;
+}
+
+
+.cart4 {
+	background-image: url(images/daft.gif);
+	position: relative;
+	display: block;
+	height: 210px;
+	width: 210px;
+	margin: 0px auto;
+	border: white ridge;
+	border-width: 1px;
+	border-radius: 10px;
+}
+
+.cart8 {
+	position: relative;
+	display: block;
+	background-image: url(images/departure.jpg);
+	height: 300px;
+	width: 1000px;
+	margin:0px auto;
+	margin-top: 150px;
+	border: white ridge;
+}
+
+.cart9 {
+	position: relative;
+	display: block;
+	background-image: url(images/scotland.jpg);
+	height: 300px;
+	width: 1000px;
+	margin:0px auto;
+	margin-top: -50px;
+	border: white ridge;
+}
+
+audio {
+	margin: 25px 640px;
+	zoom:80%;
+	color: gold;
+	margin-bottom: 10px;
+}
+
+h1:hover{
+	color: gold;
+	background-color: black;
+	font-style: italic;
+	transform: scale(1,1);
+	text-transform: capitalize;
+	transition: ease 2s;
+}
+
+.container 
+{ 
+	display: flex;
+	flex-direction: row ;
+	align-items: center ;
+	margin-top: 85px;
+}
+
+.container2 
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-top: 85px;
+}
+
+.container3 
+{
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-top: 65px;
+}
